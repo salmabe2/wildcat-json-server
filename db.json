@@ -1,0 +1,650 @@
+{
+  "partners": [
+    {
+      "name": "Adolfo M. Rodríguez Cuesta",
+      "blocks": "Dehesas Larrodrigo-río Gamo (SA-AV)"
+    },
+    {
+      "name": "Agustín Moya Botella",
+      "blocks": "Sierra Argueña"
+    },
+    {
+      "name": "Aki Gozálbez",
+      "blocks": "Jarafuel"
+    },
+    {
+      "name": "Ángel García Sánchez",
+      "blocks": "Dehesas Larrodrigo-río Gamo (SA-AV)"
+    },
+    {
+      "name": "Ana Belén Martínez Parra",
+      "blocks": "Sierra Estancias",
+      "email": "eleusis38@hotmail.com"
+    },
+    {
+      "name": "Alfred Encuentra Martínez",
+      "blocks": "Coll de Bracons (Barcelona)"
+    },
+    {
+      "name": "Antonio García Reyes",
+      "blocks": "Sierra Mágina, Sierra de Giribaile-Guadalén (Jaén)",
+      "email": "antoncanena@gmail.com"
+    },
+    {
+      "name": "Antonio Torrijo Pardos",
+      "blocks": "Sierra Valdellosa (Teruel)",
+      "email": "antorrijo@yahoo.es"
+    },
+    {
+      "name": "Bartolo López",
+      "blocks": "Calasparra"
+    },
+    {
+      "name": "Blanca Monteis Coromina",
+      "blocks": "Coll de Bracons (Barcelona)"
+    },
+    {
+      "name": "Blas González Martínez",
+      "blocks": "Sierra Estancias",
+      "email": "eleusis38@hotmail.com"
+    },
+    {
+      "name": "Carmen Díez Rivera",
+      "blocks": "Galicia (todos)"
+    },
+    {
+      "name": "Carlos Lázaro Romero",
+      "blocks": "Lezuza (Albacete)",
+      "email": "clromero1993@gmail.com"
+    },
+    {
+      "name": "Carlos Sánchez Marcos",
+      "blocks": "Arribes Duero-Águeda (SA)"
+    },
+    {
+      "name": "Cristóbal Jurado Ales",
+      "blocks": "Alcarria de Madrid, Nuevo Baztán (Madrid)"
+    },
+    {
+      "name": "Daniel Fernández Alonso",
+      "blocks": "Dombellas, Canredondo de la sierra, Santervas de la sierra",
+      "email": "danielfernandezalonso@gmail.com"
+    },
+    {
+      "name": "David Cueco Pablo",
+      "blocks": "Herrera del Duque"
+    },
+    {
+      "name": "David Villalba Collado",
+      "blocks": "Bogarra-Ayna",
+      "email": "pajaropicaflores@gmail.com"
+    },
+    {
+      "name": "Eduardo Romero Fernandez",
+      "blocks": "Alcarria de Madrid, Nuevo Baztán (Madrid)"
+    },
+    {
+      "name": "Emily Noemí Morandeira Vázquez",
+      "blocks": "Cabra (Córdoba)",
+      "email": "natureandtranslation@gmail.com"
+    },
+    {
+      "name": "Eric Serratosa Nuño",
+      "blocks": "Coll de Bracons (Barcelona)"
+    },
+    {
+      "name": "Ferran Sayol Altarriba",
+      "blocks": "Coll de Bracons (Barcelona)"
+    },
+    {
+      "name": "Felipe Peñalosa García",
+      "blocks": "Parque Regional del Sureste (Madrid)"
+    },
+    {
+      "name": "Félix Martínez Olivas",
+      "blocks": "Parque Regional del Sureste (Madrid)"
+    },
+    {
+      "name": "Francisco Almansa",
+      "blocks": "Sierra del Cura"
+    },
+    {
+      "name": "Francisco Cervera (Equipo Seguimiento Fauna VAERSA / Generalitat Valenciana)",
+      "blocks": "La Yesa - Alpuente"
+    },
+    {
+      "name": "Francisco García",
+      "blocks": "Caudiel"
+    },
+    {
+      "name": "Francisco Herrera García",
+      "blocks": "Sierra Mágina, Sierra de Giribaile-Guadalén (Jaén)"
+    },
+    {
+      "name": "Francisco Javier Lloris",
+      "blocks": "Caudiel"
+    },
+    {
+      "name": "Francisco Silva",
+      "blocks": "Filabres (Almería)"
+    },
+    {
+      "name": "Gustavo Merchan Criado",
+      "blocks": "La Serrezuela (SA)-Valle del Corneja (AV)"
+    },
+    {
+      "name": "Ginés Jesús Gómez Sánchez",
+      "blocks": "Sierra Estancias",
+      "email": "eleusis38@hotmail.com"
+    },
+    {
+      "name": "Helena García Bayón",
+      "blocks": "Alcarria de Madrid, Nuevo Baztán (Madrid)"
+    },
+    {
+      "name": "Iván Salgado García",
+      "blocks": "Alcarria de Madrid, Nuevo Baztán (Madrid)"
+    },
+    {
+      "name": "Isidre cos",
+      "blocks": "Serra de Finestres (Girona)"
+    },
+    {
+      "name": "Ivan Parrillo Hidalgo",
+      "blocks": "Cabra (Córdoba)",
+      "email": "natureandtranslation@gmail.com"
+    },
+    {
+      "name": "Javier Barona Fernández",
+      "blocks": "Penyagolosa, Ares del Maestrat, Sierra Argueña, Font Roja, Aitana, Sierra Salinas, Beniarrés, Coves de Vinromà, Barx, Herbesset, Caudiel, Soneja, Losa - Chulilla, Jarafuel"
+    },
+    {
+      "name": "Javier Cruz Rubio",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "Javier Gallego Olivan",
+      "blocks": "Filabres (Almería)"
+    },
+    {
+      "name": "Javier Gutiérrez Huete",
+      "blocks": "Alcarria de Madrid, Nuevo Baztán (Madrid)"
+    },
+    {
+      "name": "Javier Pedraza Ovejero",
+      "blocks": "Dehesas Larrodrigo-río Gamo (SA-AV)"
+    },
+    {
+      "name": "Javier Rodriguez Siles",
+      "blocks": "Hornachuelos Norte (Los Chivatos), P.N. Sierra de Segura (Las Acebeas), P.N Despeñaperros, P.N Andujar (Valqueado), Guadalmellato Sur (Villafranca de Cordoba), Guadalmellato Norte (Adamuz), P.N Aracena y Picos de Aroche (Santa Olaya de Cala), Huelva Sureste (embalse del Piedra)",
+      "email": "rioyeguas@gmail.com"
+    },
+    {
+      "name": "Jordi Bermejo Cabezas",
+      "blocks": "Serra de Finestres (Girona)",
+      "email": "bermejonatur@hotmail.com"
+    },
+    {
+      "name": "José García Benavente",
+      "blocks": "Sierra Salinas"
+    },
+    {
+      "name": "José Giménez",
+      "blocks": "Caudiel, Soneja"
+    },
+    {
+      "name": "José Miguel Pueyo Soler",
+      "blocks": "Sierra Valdellosa (Teruel)",
+      "email": ""
+    },
+    {
+      "name": "José Miguel Rodríguez Belmonte",
+      "blocks": "Sierra de Bonastre (Tarragona)",
+      "email": "rodrib69@gmail.com"
+    },
+    {
+      "name": "Juan José Benítez Ruiz Moyano",
+      "blocks": "Zarza Capilla - Peñalsordo",
+      "email": "jjbenitezrm@gmail.com"
+    },
+    {
+      "name": "Juan José Tur",
+      "blocks": "Penyagolosa"
+    },
+    {
+      "name": "Juan Manuel Gonzalez Sanchez",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "Juan Ramon Rguez Sanchez",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA), Dehesas Larrodrigo-río Gamo (SA-AV)"
+    },
+    {
+      "name": "Juanjo Torres Barrón",
+      "blocks": "Ezcaray (La Rioja)",
+      "email": "juanjo.torres@icarus.es"
+    },
+    {
+      "name": "Julián Cendrero Ramos",
+      "blocks": "Zarza Capilla - Peñalsordo",
+      "email": "julian@sezextremadura.org"
+    },
+    {
+      "name": "Julián Martín Garde",
+      "blocks": "Sierra de Francia (Salamanca)",
+      "email": "jmgdrosera@gmail.com"
+    },
+    {
+      "name": "Loreto García Román",
+      "blocks": "Parque Regional del Sureste (Madrid)",
+      "email": "loreto.garcia@ext.madrid.org"
+    },
+    {
+      "name": "Luis Miguel Bautista Sopelana",
+      "blocks": "Penyagolosa"
+    },
+    {
+      "name": "Manuel Alvarez Acosta",
+      "blocks": "Sierra de Lújar (Granada)",
+      "email": "rmd@megared.net"
+    },
+    {
+      "name": "Manuel Fernández Quesada",
+      "blocks": "Zarza Capilla - Peñalsordo"
+    },
+    {
+      "name": "María B. Ramos",
+      "blocks": "Penyagolosa"
+    },
+    {
+      "name": "María de la Paz de Rosa Guzmán",
+      "blocks": "Baza (Granada)",
+      "email": "caritasgranada@gmail.com"
+    },
+    {
+      "name": "María del Carmen Barba Morón",
+      "blocks": "Sierra de Bonastre (Tarragona)",
+      "email": "barbamoron@hotmail.com"
+    },
+    {
+      "name": "María Jesús González Ramos",
+      "blocks": "Sierra Mágina, Sierra de Giribaile-Guadalén (Jaén)"
+    },
+    {
+      "name": "María José Maroto",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "María José Sánchez Rodríguez",
+      "blocks": "Sierra de Lújar (Granada)",
+      "email": "mrhontanillas@gmail.com"
+    },
+    {
+      "name": "María José Sánchez Rodríguez",
+      "blocks": "Parque Regional del Sureste (Madrid)",
+      "email": "mjsanzrodriguez@me.com"
+    },
+    {
+      "name": "Marta Martínez Valle",
+      "blocks": "Dehesas Larrodrigo-río Gamo (SA-AV)",
+      "email": "marta@fuenteviva.org"
+    },
+    {
+      "name": "Miguel Ángel Ramos",
+      "blocks": "Penyagolosa"
+    },
+    {
+      "name": "Miguel Ángel Ramos",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "Miguel López",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "Moisés Jiménez",
+      "blocks": "Sierra Mágina, Sierra de Giribaile-Guadalén (Jaén)"
+    },
+    {
+      "name": "Nuria Martín Cañadas",
+      "blocks": "Sierra Estancias",
+      "email": "eleusis38@hotmail.com"
+    },
+    {
+      "name": "Pablo Moreno Arriaga",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "Paco García",
+      "blocks": "Caudiel"
+    },
+    {
+      "name": "Paco Moreno",
+      "blocks": "Sierra de Bonastre (Tarragona)"
+    },
+    {
+      "name": "Paco Pérez",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "Pablo González",
+      "blocks": "Sierra Estancias"
+    },
+    {
+      "name": "Pilar González Pérez",
+      "blocks": "Sierra Mágina, Sierra de Giribaile-Guadalén (Jaén)",
+      "email": "piperniq2006@hotmail.com"
+    },
+    {
+      "name": "Rafael de la Rosa Gallego",
+      "blocks": "Penyagolosa"
+    },
+    {
+      "name": "Rafael Garcia Garcera",
+      "blocks": "Penyagolosa"
+    },
+    {
+      "name": "Rafael González Martín",
+      "blocks": "Sierra Mágina, Sierra de Giribaile-Guadalén (Jaén)",
+      "email": "rafaelgonzalezmartin@gmail.com"
+    },
+    {
+      "name": "Rafaela Valle Ruiz",
+      "blocks": "Calasparra"
+    },
+    {
+      "name": "Raúl López Lázaro",
+      "blocks": "Dehesas Larrodrigo-río Gamo (SA-AV)"
+    },
+    {
+      "name": "Ricardo M. Romero",
+      "blocks": "Penyagolosa"
+    },
+    {
+      "name": "Roberto Tena",
+      "blocks": "Calasparra"
+    },
+    {
+      "name": "Ruben Martínez López",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "Rubén Ruiz Morales",
+      "blocks": "Dehesas Larrodrigo-río Gamo (SA-AV)"
+    },
+    {
+      "name": "Silvia Mas Lluch",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)",
+      "email": "silviamaslluch@gmail.com"
+    },
+    {
+      "name": "Sergio Martínez Ruiz",
+      "blocks": "Sierra Estancias"
+    },
+    {
+      "name": "Santiago Pérez",
+      "blocks": "Coll de Bracons (Barcelona)"
+    },
+    {
+      "name": "Silvia Ruiz",
+      "blocks": "Sierra Estancias"
+    },
+    {
+      "name": "Teresa López Hernández",
+      "blocks": "Sierra de Bonastre (Tarragona)",
+      "email": "teresa_lopez@dsa.malaga.org"
+    },
+    {
+      "name": "Tomas Barroso Fernández",
+      "blocks": "Cabra (Córdoba)",
+      "email": "tomas@dawson.es"
+    },
+    {
+      "name": "Tomás Martinez Ballesteros",
+      "blocks": "Alcornocales de Valdelosa (SA)-Cubo del Vino (ZA)"
+    },
+    {
+      "name": "Violeta González Morilla",
+      "blocks": "Cabra (Córdoba)",
+      "email": "violeta.gonzalez@ext.madrid.org"
+    }
+  ],
+  "publications": [
+    {
+      "date": "2023-03-13",
+      "title": "El gato montés, protagonista en abril en Las Lagunas",
+      "subtitle": "El parque natural acogerá los días 22 y 23 de abril unas jornadas técnicas a nivel nacional sobre el estado de conservación del gato montés europeo (Felis silvestris) en España",
+      "type": "news",
+      "src": "https://www.latribunadeciudadreal.es/noticia/z941a2c7a-9910-8c52-c824caf72a8f9a71/202303/el-gato-montes-protagonista-en-abril-en-las-lagunas",
+      "img": "https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/naturaleza/lagunas_ruidera_t0200452.jpg_604889389.jpg"
+    },
+    {
+      "date": "2024-02-04",
+      "title": "Y… a vueltas con el gato montes",
+      "subtitle": "La pasada primavera, concretamente los días 22 y 23 de Abril de 2023, se celebraron en el Parque Natural de las Lagunas de Ruidera las primeras jornadas técnicas y monográficas en España sobre el gato montés, que contaron con algo más de 100 participantes (entre asistentes y ponentes).",
+      "type": "news",
+      "src": "https://harmusch.wordpress.com/2024/02/04/y-a-vueltas-con-el-gato-montes/",
+      "img": "https://harmusch.wordpress.com/wp-content/uploads/2024/02/whatsapp-image-2023-05-01-at-09.09.52-2.jpeg"
+    },
+    {
+      "date": "2023-04-17",
+      "title": "El gato montés de la península ibérica ¿en peligro de extinción?",
+      "subtitle": "Un grupo de especialistas en felinos evalúa la situación del felino en la Península, con el objetivo de establecer un plan de acción para su protección y conservación. En el norte y el noreste, la especie está aparentemente bien distribuida, mientras en el sur y el centro existe poca densidad, con una fragmentación extrema.",
+      "type": "news",
+      "src": "https://www.agenciasinc.es/Noticias/El-gato-montes-de-la-peninsula-iberica-en-peligro-de-extincion",
+      "img": "https://cdn.agenciasinc.es/var/ezwebin_site/storage/images/_aliases/img_1col/noticias/el-gato-montes-de-la-peninsula-iberica-en-peligro-de-extincion/10782189-2-esl-MX/El-gato-montes-de-la-peninsula-iberica-en-peligro-de-extincion.jpg",
+      "imgInfo": "La población del gato montés sufre una gran fragmentación en España y Portugal. / Pixabay"
+    },
+    {
+      "date": "2023-03-18",
+      "title": "I Jornada Técnica Nacional de Gato Montés",
+      "subtitle": "El parque nacional acogerá una jornada técnica nacional sobre el estado de conservación del gato montés.",
+      "type": "project",
+      "src": "https://www.elclickverde.com/agenda/2023/03/18/i-jornada-tecnica-nacional-de-gato-montes",
+      "img": "https://elclickverde.com/sites/default/files/eventos/lista_imagenes/gato_montes_jornadas_pq.jpg"
+    },
+    {
+      "date": "2023-04-15",
+      "title": "Las Lagunas de Ruidera acogen en abril jornada técnica nacional sobre gato montés",
+      "subtitle": "El Parque Natural de las Lagunas de Ruidera acogerá unas jornadas técnicas a nivel nacional sobre el estado de conservación del gato montés europeo en España.",
+      "type": "news",
+      "src": "https://efeverde.com/las-lagunas-de-ruidera-acogen-en-abril-jornada-tecnica-nacional-sobre-gato-montes/",
+      "img": "https://efeverde.com/wp-content/uploads/2022/01/gato-montes.jpg",
+      "imgInfo": "Ejemplar de gato montés. Archivo EPA-EFE/MARC TIRL"
+    },
+    {
+      "date": "2023-09-04",
+      "title": "La Comunidad de Madrid y la URJC evalúan la recuperación del gato montés en el Parque del Guadarrama",
+      "subtitle": "Las poblaciones de este felino en el Parque pueden estar entre las más importantes y numerosas del centro peninsular, según  los datos preliminares. La especie es cada vez más escasa en muchas regiones de España, sin que se conozcan las causas concretas del descenso de población",
+      "type": "news",
+      "src": "https://www.telemadrid.es/noticias/madrid/La-Comunidad-de-Madrid-y-la-URJC-evaluan-la-recuperacion-del-gato-montes-en-el-Parque-del-Guadarrama-0-2593540625--20230903082213.html",
+      "img": "https://www.telemadrid.es/2023/09/04/medio-ambiente/_2593850683_42602664_1300x731.jpg"
+    },
+    {
+      "date": "2021-02-22",
+      "title": "Seguimiento y evaluación del estado de conservación del gato montés en España",
+      "subtitle": "Un estudio evalúa el estado de conservación del gato montés en diferentes regiones de España, con el objetivo de establecer un plan de protección a nivel nacional.",
+      "type": "news",
+      "src": "https://castellon-en-ruta-cultural.es/seguimiento-y-evaluacion-del-estado-de-conservacion-del-gato-montes-felis-silvestris-en-espana/",
+      "img": "https://castellon-en-ruta-cultural.es/wp-content/uploads/2021/02/gato-montes-470x260.jpg"
+    },
+    {
+      "date": "2023-05-09",
+      "title": "Determinan la existencia de gato montés en Ordesa",
+      "subtitle": "Un estudio reciente ha confirmado la existencia de gato montés en el Parque Nacional de Ordesa, lo que es un indicativo positivo para la conservación de esta especie en la zona.",
+      "type": "news",
+      "src": "https://www.diariodelaltoaragon.es/noticias/comarcas/2023/05/09/determinan-la-existencia-de-gato-montes-en-ordesa-1650342-daa.html",
+      "img": "https://imagenes.diariodelaltoaragon.es/files/image_990_556/uploads/imagenes/2023/05/08/fotografia-de-un-gato-montes-con-una-camara-de-fototrampeo.jpeg",
+      "imgInfo": "Fotografía de un gato montés con una cámara de fototrampeo. S.E."
+    },
+    {
+      "date": "2023-03-14",
+      "title": "Alarmante situación del gato montés en la Península Ibérica",
+      "subtitle": "El gato montés en la Península Ibérica enfrenta serias amenazas debido a la fragmentación de su hábitat y la persecución humana, lo que pone en peligro su supervivencia.",
+      "type": "news",
+      "src": "https://infomascota.com/alarmante-situacion-del-gato-montes-la-peninsula-iberica/",
+      "img": "https://infomascota.com/wp-content/uploads/2023/03/Gato-montes_Felis-silvestris-1089x700.jpeg",
+      "imgInfo": "Algunos trabajos previos, que analizan la supervivencia y las causas de mortalidad del gato montés, ya avisan de la “extinción silenciosa” del félido en Europa (Foto: François Mougeot)"
+    },
+    {
+      "date": "2019-07-02",
+      "title": "En busca del gato montés: la Asociación Serbal será la encargada de censar a este felino en Almería",
+      "subtitle": "La asociación Serbal se encargará de censar el gato montés en Almería con el fin de obtener datos sobre su distribución y estado de conservación.",
+      "type": "news",
+      "src": "https://elcomerciodealmeria.opennemas.com/articulo/vida-y-salud/busca-gato-montes-asociacion-serbal-sera-encargada-censar-felino-almeria/20190702154332002880.html",
+      "img": "https://elcomerciodealmeria.opennemas.com/asset/thumbnail,992,558,center,center/media/elcomerciodealmeria/images/2019/07/02/2019070213364862038.jpg",
+      "imgInfo": "Gato montés/ Foto: Enrique Ruiz Ara"
+    },
+    {
+      "date": "2024-03-24",
+      "title": "Conservación del gato montés en Almería",
+      "subtitle": "La asociación Serbal trabaja en proyectos de conservación del gato montés en la provincia de Almería, enfocados en el monitoreo y la protección de su hábitat.",
+      "type": "project",
+      "src": "https://serbal-almeria.org/que-hacemos/proyectos/gato-montes-almeria",
+      "img": "https://serbal-almeria.org/images/paginas/gato-montes/Gato-montes-almeria-1-compressor.jpg",
+      "imgInfo": "Gato montés fotografiado por una cámara de fototrampeo en Los Velez. Foto:©SERBAL."
+    },
+    {
+      "date": "2023-04-17",
+      "title": "El gato montés de la Península Ibérica, ¿en peligro de extinción?",
+      "subtitle": "Un grupo de especialistas en el gato montés ha evaluado la situación de esta especie en la Península Ibérica con el objetivo de establecer un plan de acción para su protección y conservación",
+      "type": "news",
+      "src": "https://www.madrimasd.org/gato-montes-peninsula-iberica-en-peligro-extincion",
+      "img": "https://www.madrimasd.org/sites/default/files/Noti_14_17_23.png"
+    },
+    {
+      "date": "2023-03-13",
+      "title": "I Reunión de especialistas sobre gato montés de la Península Ibérica",
+      "subtitle": "La alarmante situación del gato montés en la Península Ibérica motiva a los expertos a trabajar de forma conjunta para establecer una hoja de ruta que contribuya a revertir la “extinción silenciosa” de la especie en la mayor parte de Iberia",
+      "type": "news",
+      "src": "https://www.irec.es/noticias/reunion-especialistas-gato-montes-peninsula-iberica/",
+      "img": "https://www.irec.es/wp-content/uploads/2023/03/Gato-montes_Felis-silvestris.jpeg",
+      "imgInfo": "Foto: François Mougeot"
+    },
+    {
+      "date": "2023-04-14",
+      "title": "El gato montés de la Península Ibérica, ¿en peligro de extinción?",
+      "subtitle": "Un grupo de especialistas en este pequeño felino ha evaluado la situación de esta especie para establecer un plan de acción para su protección y conservación.",
+      "type": "news",
+      "src": "https://www.urjc.es/todas-las-noticias-de-actualidad-cientifica/7979-el-gato-montes-de-la-peninsula-iberica-en-peligro-de-extincion",
+      "img": "https://www.urjc.es/media/k2/items/cache/045ca9baa9bd3c77535e15c8d834aea0_M.jpg",
+      "imgInfo": "Foto: Gato montés. Autores: Jose María Gil-Sánchez y Mariola Sánchez-Cerdá"
+    },
+    {
+      "date": "2023-05-05",
+      "title": "El gato montés, en situación de \"preextinción\" en la Península Ibérica",
+      "subtitle": "Fragmentación extrema y baja densidad de sus poblaciones amenazan seriamente a este felino",
+      "type": "news",
+      "src": "https://www.elperiodico.com/es/medio-ambiente/20230505/gato-montes-situacion-preextincion-peninsula-86381328",
+      "img": "https://estaticos-cdn.prensaiberica.es/clip/539fd2d9-3b06-401d-a44c-7fac917a34de_16-9-discover-aspect-ratio_default_0.webp",
+      "imgInfo": "El gato montes de la peninsula iberica, en peligro de extincion / Pixabay"
+    },
+    {
+      "date": "2023-04-17",
+      "title": "El gato montés de la península ibérica ¿en peligro de extinción?",
+      "description": "Un grupo de especialistas en felinos evalúa la situación del felino en la Península, con el objetivo de establecer un plan de acción para su protección y conservación. En el norte y el noreste, la especie está aparentemente bien distribuida, mientras en el sur y el centro existe poca densidad, con una fragmentación extrema.",
+      "type": "news",
+      "src": "https://www.lasexta.com/tecnologia-tecnoxplora/sinc/gato-montes-peninsula-iberica-peligro-extincion_20230417643d392e2f8deb0001547c51.html",
+      "img": "https://fotografias.lasexta.com/clipping/cmsimages01/2023/04/17/96081322-2BC5-4C28-B76E-A487A05B1B1E/96.jpg?crop=1920,1080,x0,y101&width=1200&height=675&optimize=high&format=webply",
+      "imgInfo": "Imagen de un gato montés | Sinc"
+    },
+    {
+      "date": "2023-05-08",
+      "title": "Seguimiento del gato montés en la península",
+      "type": "news",
+      "src": "https://www.youtube.com/watch?v=cMt4ceORXkw&ab_channel=EstaesmitierraAragonTV",
+      "video": true
+    },
+    {
+      "date": "2024-01-15",
+      "title": "Seguimiento de gato montés en P.N. Ordesa y Monte Perdido dentro del Censo de Gato Montés en España",
+      "subtitle": "Ponentes: Pilar Jimeno Brabo. Sociedad Aragonesa de Gestión Agroambiental (SARGA)",
+      "type": "project",
+      "src": "https://www.youtube.com/watch?v=h2c6flYPyjo&ab_channel=GobiernodeArag%C3%B3n",
+      "video": true
+    },
+    {
+      "date": "2019-11-05",
+      "title": "Censo del gato montés en la “Sierra de los Filabres” de Almería",
+      "type": "news",
+      "src": "https://www.youtube.com/watch?v=VNRPJ4icB4s&ab_channel=TierrayMar%26EspacioProtegidoCanalSur",
+      "video": true
+    },
+    {
+      "date": "2024-04-06",
+      "title": "El gato montés en la encrucijada",
+      "subtitle": "Mucho por aprender aún del gato montés : Algunas respuestas y muchos interrogantes",
+      "type": "news",
+      "src": "https://www.youtube.com/watch?v=cMt4ceORXkw&ab_channel=EstaesmitierraAragonTV",
+      "img": "https://www.terramirabile.org/wp-content/uploads/2024/04/Felix-silvestris-bv-Collado-JermosoIMG_4583-1536x1152.jpg",
+      "imgInfo": "Felis silvestris, Fotografía Luis Herrero",
+      "video": true
+    },
+    {
+      "date": "2023-09-17",
+      "title": "Almería, uno de los últimos reductos del gato montés en Andalucía",
+      "subtitle": "Serbal ha constatado la presencia de este felino en Los Filabres, Sierra de Gádor, Las Estancias y Sierra Alhamilla",
+      "type": "news",
+      "src": "https://www.diariodealmeria.es/almeria/Almeria-ultimos-reductos-gato-montes-Andalucia-video_0_1830117611.html",
+      "img": "https://static.grupojoly.com/clip/16ede387-7d07-4297-baee-66a68e181c53_16-9-aspect-ratio_1200w_0.webp",
+      "imgInfo": "Captura de una de las grabaciones del gato montés en la provincia de Almería. / José Miguel Gómez / Serbal",
+      "video": true
+    },
+    {
+      "date": "2023-06-13",
+      "title": "Quizá desaparezca el Gato Montés de nuestros campos, con Emilio Virgos #184",
+      "type": "news",
+      "src": "https://www.youtube.com/watch?v=TkhY7aZXrxs&ab_channel=Podcastidae-Reddepodcast",
+      "video": true
+    },
+    {
+      "date": "2023-06-16",
+      "title": "Episodio 8 El gato montés, invisible y amenazado",
+      "type": "news",
+      "src": "https://www.ivoox.com/episodio-8-el-gato-montes-invisible-amenazado-audios-mp3_rf_110561380_1.html",
+      "video": true
+    }
+  ],
+  "study-areas": [
+    {
+      "id": 397,
+      "name": "Murcia",
+      "presence": true,
+      "num_cats": 3,
+      "region": "Región de Murcia",
+      "link": "https://docs.google.com/document/d/16IT61Ih63sS_AtLLxHoL6fYF2O2KCx7o/edit?usp=drive_link&ouid=115988741321464704916&rtpof=true&sd=true"
+    },
+    {
+      "id": 409,
+      "name": "Nerpio",
+      "presence": false,
+      "num_cats": 0,
+      "region": "Castilla La Mancha",
+      "link": "https://docs.google.com/document/d/1wOFej3hsDqcrOHROEEPQimJFZNt3Xziu/edit?usp=drive_link&ouid=115988741321464704916&rtpof=true&sd=true"
+    },
+    {
+      "id": 996,
+      "name": "Zarza-Capilla",
+      "presence": false,
+      "num_cats": 0,
+      "region": "Extremadura",
+      "link": "https://docs.google.com/document/d/1hwMlhWoX76bgUbV9ZT0yK3KTVh1SAk1v/edit?usp=drive_link&ouid=115988741321464704916&rtpof=true&sd=true"
+    },
+    {
+      "id": 1006,
+      "name": "Monegros",
+      "presence": true,
+      "num_cats": 3,
+      "region": "Aragón",
+      "link": "https://docs.google.com/document/d/1_xXZcdUPrNqvC5NentI3J6nHAKfrTeUe/edit?usp=drive_link&ouid=115988741321464704916&rtpof=true&sd=true"
+    },
+    {
+      "id": 1037,
+      "name": "Valdegeña",
+      "presence": true,
+      "num_cats": 1,
+      "region": "Castilla y León",
+      "link": "https://docs.google.com/document/d/1HSsLKIbxy1_vX5R5Op8VeG1PprjBe_Vs/edit?usp=drive_link&ouid=115988741321464704916&rtpof=true&sd=true"
+    }
+  ]
+}
